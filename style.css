@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+h1{
+    background-color:aqua;
+    color: black;
+}
+
+#head2{
+    background-color: #be2f2f;
+    color: black;
+}
+
+.main{
+    background-color: #890047;
+    color: chartreuse;
+} 
